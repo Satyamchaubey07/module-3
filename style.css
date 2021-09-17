@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border: none;
+    background-color: black;
+    color: #4d8790;
+}
+
+body {
+    background-color: #4d8790;
+    color: white;
+}
+
+.center {
+    width: 90%;
+    background-color: grey;
+}
+
+.container {
+    background-color: grey;
+}
+
+.menu-h {
+    font-size: 30px;
+    margin-top: 0px;
+    padding-bottom: 30px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+h2 {
+    text-align: center;
+}
+
+#myNavbar ul li a {
+    color: #c4c737;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+b {
+    font-size: 1em;
+}
